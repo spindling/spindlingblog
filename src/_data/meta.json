@@ -1,9 +1,9 @@
 {
-    "title": "beginnersBase11ty",
-    "description": "spring board for building websites with a rambling readme!",
+    "title": "Spindling Log",
+    "description": "Various words",
     "siteLogo": "/siteImages/siteLogoxSm.png",
     "feed": {
-        "subtitle": "subtitle goes here hey, lets write about ... and...",
+        "subtitle": "Something something",
         "filename": "feed.xml",
         "path": "/feed/atomFeed.xml",
         "id": "https://example.com/",
@@ -11,8 +11,8 @@
     },
 
     "author": {
-        "name": "Ewan-D",
-        "email": "ewanduffus@gmail.com",
-        "github": "https://github.com/Ewan-D"
+        "name": "Spindling",
+        "email": "N/A",
+        "github": "N/A"
     }
 }
